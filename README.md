@@ -19,4 +19,4 @@ This notebook includes data loading, cleaning, and initial visualizations using 
 - `data/`: (optional) sample datasets
 
 ## 🚧 Status
-This is a work-in-progress learning notebook. More projects coming soon!
+Completed. More projects coming soon!
